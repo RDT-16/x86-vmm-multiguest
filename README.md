@@ -125,11 +125,3 @@ The VMM can evolve to support:
 7. [ACM Paper on Virtualization](https://dl.acm.org/doi/fullHtml/10.1145/3365199)  
 8. [I/O for VMMs – ResearchGate](https://www.researchgate.net/publication/224332985_IO_for_Virtual_Machine_Monitors_Security_and_Performance_Issue)  
 9. Oracle VM VirtualBox Documentation  
-
----
-
-## 👥 Contribution & License
-
-Open for contributions! Follow standard fork-and-pull request procedures.  
-MIT License © 2025 Rithik Thakur
-
